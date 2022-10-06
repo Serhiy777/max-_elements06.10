@@ -1,0 +1,5 @@
+nums = [67, 99, 81, 64, 55, 98]
+n = 4
+nums.sort(reverse = True)
+new_nums = nums[:4]
+print(new_nums)
